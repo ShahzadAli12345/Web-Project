@@ -1,0 +1,125 @@
+/* CSS File for all pages except  Contact Us Page*/
+                        a:hover {
+                          color: yellow;
+                        }
+.column {
+    float: left;
+    max-width: 20%;
+    max-height:20%;
+    padding: 5px;
+    display: block;
+    margin-left: auto;
+    margin-left: 0%;
+    margin-right: 100%;
+    margin-right: auto;
+
+  }
+  .row::after {
+    content: "";
+    clear: both;
+    display: table
+  }
+  .image {
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 20px;}
+  .fa:hover {
+    opacity: 10;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    text-align: center;
+    margin-left: 43%; 
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    text-align: center;
+  }
+  .fa-instagram{
+      background-color: red;
+      color: white;
+      text-align: center;
+  }
+  .fa-linkedin{
+      background-color: #007bb5;
+      color: white;
+      text-align: center;
+  }
+
+.long_text_2 {
+  width: 100%;
+  float: right;
+  font-size: 20px !important;
+  color:white;
+  margin-left: 0px;
+  margin-right: 90px;
+  padding-top: 30px !important;
+  font-family: "Times New Roman", Times, serif;
+
+}
+  
+.about_section {
+  width: 100%;
+  float: left;
+  background-color: #000;
+  margin-top: 50px;
+}
+
+.about_taital {
+  width: 80%;
+  float: right;
+  margin-top: 120px;
+}
+
+.about_text {
+  width: 100%;
+  float: left;
+  font-size: 40px;
+  color: white;
+  font-weight: bold;
+  padding-left: 80px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.about_section_2 {
+  width: 100%;
+  float: left;
+  margin-top: 30px;
+}
+            img {
+              width: 100%;
+            }
+            a {
+              margin: 5px;
+              color: white;
+              text-decoration: none;
+              text-transform: uppercase;
+            }
+      
+            a:hover {
+              color: yellow;
+            }
+
+.about_text_2 {
+  width: 19%;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 0%;
+  font-size: 40px;
+  color: black;
+  border-bottom: 1px solid #49fe5b;
+  text-align: center;
+}
+
+.word{color: red;}
